@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:tugas_invetory/menu.dart';
+import 'package:tugas_invetory/screens/menu.dart';
 
 void main() {
   runApp(const MyApp());
@@ -36,4 +36,3 @@ class MyApp extends StatelessWidget {
     );
   }
 }
-
