@@ -509,7 +509,7 @@ Untuk mengelola keadaan dalam stateful widget, kita perlu menggunakan objek "Sta
 ## Implementasi
 ### 1. Membuat Proyek Flutter Baru
 ```sh
-flutter create trading_inventory_mobile
+flutter create rhaken_invetory
 ```
 
 ### 2. Membuat File `menu.dart`
